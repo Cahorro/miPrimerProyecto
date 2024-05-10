@@ -1,0 +1,5 @@
+Liceciado en Informática e Ingeniero de Sistemas por la Universida Politécnica de Madrid.
+Amplia experiencia (28 años) en Administración y Desarrollo sobre plataforma Lotus Notes, sobre todo desarrollando durante unos 25 años. Cerficación "Certified Lotus Professional" en administración de la versión 5.
+De esta experiencia derivan conocimientos de LotusScript, Lenguaje de fórmulas de Lotus, Java, HTML, algo de CSS y Javascript. Además para el volcadoy recuperación de datos de BDs relacionales, conocimiento de SQL.
+El año pasado hice unos cursos y me saqué los cerficados oficiales de Oracle: Oracle Certified Professional: Java SE 11 y Oracle Certified Professional: Java EE 7 Developer.
+Además, aunque no me gusta ni ponerlo en el CV porque no me gustó demiasiado, participé en algún desarrollo en InvesDoc (Software de gestión documental de IECISA).
